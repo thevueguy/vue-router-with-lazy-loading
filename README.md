@@ -1,4 +1,4 @@
-# app-with-lazy-loading
+[Related Article](https://thevueguy/blog/lazy-load-routes-vue-router/) | [Live Demo](https://friendly-williams-78a4de.netlify.app/) | [Non-Lazy loaded version](https://github.com/thevueguy/vue-router-without-lazy-loading)
 
 ## Project setup
 ```
